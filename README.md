@@ -1,2 +1,2 @@
 # gc-generation-testing
-Review of .NET application managed heap generations for garbage collector
+.NET application garbage collector heap generations overview
